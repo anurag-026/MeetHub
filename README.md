@@ -20,6 +20,12 @@ Welcome to **Meet Hub**! This application is a full-stack alternative to Zoom, o
 - **Jitsi Meet Flutter SDK:** For seamless video conferencing integration.
 
 
+## Screenshot
+![welcomeScreen](https://github.com/user-attachments/assets/be25dd94-4189-44a9-8319-d85a3f6f3786)
+![home_screen](https://github.com/user-attachments/assets/4ba198e2-2554-4d59-b5ea-76c9a3ad4ee5)
+
+
+
 ## Getting Started
 
 To get started with Zoom Clone, follow these steps:
