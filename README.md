@@ -23,8 +23,8 @@ Welcome to **Meet Hub**! This application is a full-stack alternative to Zoom, o
 ## Screenshot
 
 <div style="display: flex; justify-content: space-around;">
-  <img src="https://github.com/user-attachments/assets/be25dd94-4189-44a9-8319-d85a3f6f3786" alt="Screenshot 1" width="20%" />
-  <img src="https://github.com/user-attachments/assets/4ba198e2-2554-4d59-b5ea-76c9a3ad4ee5" alt="Screenshot 2" width="20%" />
+  <img src="https://github.com/user-attachments/assets/be25dd94-4189-44a9-8319-d85a3f6f3786" alt="Welcome Screen" width="25%" style="margin-right: 10px"/>
+  <img src="https://github.com/user-attachments/assets/4ba198e2-2554-4d59-b5ea-76c9a3ad4ee5" alt="Home Screen" width="25%" style="margin-right: 10px" />
 </div> 
 
 
